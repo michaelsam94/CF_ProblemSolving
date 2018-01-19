@@ -43,17 +43,5 @@ public class A294 {
             System.out.println(birdsPerBox[i]);
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
